@@ -107,9 +107,9 @@ If you use this simulator or find our research helpful in your own work, please 
 
 ```bibtex
 @article{khelloufi2026tagm,
-  title={Research on the Reliability Verification and Safety-Aware Collaborative Recommendation Mechanism for Embodied AGI Agents in Industrial Social IoT},
-  author={Khelloufi, Amar and [Co-Authors]},
-  journal={[Journal Name]},
+  title={XXXXXX },
+  author={Khelloufi, Amar and  XXXX },
+  journal={[IoT Journal]},
   year={2026}
 }
 ```
