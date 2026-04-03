@@ -4,6 +4,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Official repository for the simulation framework and interactive visualizations accompanying our research on the **Trust-Aware Collaborative Recommendation Mechanism (TAGM)** for Social IoT mobility networks.
+## LINK TO TEST THE RESULTS SIMULATION
+```bash
+
+https://tagm-sim-results.streamlit.app/
+
+````
 
 ## 📖 Overview
 
